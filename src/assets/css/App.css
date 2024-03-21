@@ -1,0 +1,48 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+.App {
+  text-align: center;
+}
+
+.select-categories {
+  width: 400px;
+}
+
+.star {
+  margin-top: -18px;
+}
+
+.navbar {
+  background-color: blueviolet;
+}
+
+#navbar-brand {
+  color: white;
+  margin-top: 10px;
+}
+
+#logo {
+  margin-left: 50px;
+  padding: 10px;
+}
+
+#logo:hover {
+  cursor: pointer;
+}
+
+#previous {
+  text-decoration: none;
+  color: #000;
+}
+
+.image-cart {
+  object-fit: cover;
+}
+
+.delete-product:hover {
+  cursor: pointer;
+  color: red;
+}
+
+.text-paypage {
+  font-size: 12px;
+}
